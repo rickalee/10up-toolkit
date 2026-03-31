@@ -1,5 +1,11 @@
 # Changelog
 
+## 6.5.2-next.0
+
+### Patch Changes
+
+- 1fe01b6: Fix: Update "Dependency Extraction Webpack Plugin" Dependency
+
 ## 6.5.1
 
 ### Patch Changes
